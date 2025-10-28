@@ -109,6 +109,7 @@ ul > li > img {
   object-fit: cover;
   vertical-align: bottom;
   border: 0.5px black solid;
+  border-radius: 5%;
 }
 
 li:last-child {
